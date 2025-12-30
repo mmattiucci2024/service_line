@@ -7,4 +7,6 @@ The software can emulate several service lines, from single-line systems to
 hierarchical ones. It uses at least five strategies, which can also be studied
 in human organizational environments.
 The simulation produces many interesting results with quantitative scores that
-can help apply the mentioned strategies in different application areas.
+can help apply the mentioned strategies in different application areas. 
+Furthermore, these results are highly valuable for a mathematical approach 
+to decision-making theory in complex environments.
