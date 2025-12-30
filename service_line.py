@@ -2,11 +2,12 @@
 # Program: service_line.py
 # Updated: 30th of December 2025
 # Version: 2.4
-# Goal: Simulate a single Service Line then a hierarchical one
-#       (one chief many collaborators) that work on service 
-#       requests by many different strategies.
-#       The simulation evaluates many types of 
-#       performance-parameters and compare them.
+# Goal:  Simulates a single service line and then a hierarchical one
+#        (one manager with multiple collaborators) that work on service 
+#        requests using many different strategies.
+#        The simulation evaluates many types of 
+#        performance parameters and compares them.
+#
 # MIT License
 # 
 # Copyright (c) 2025 Marco Mattiucci
